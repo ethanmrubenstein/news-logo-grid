@@ -1,5 +1,5 @@
 # news-logo-grid
 
-This is a little CSS project I made. I wanted to replicate an "As seen on" section often seen in many websites. I got most of the logos from Wikipedia.
+A simple and clean "As Seen On" logo grid section, commonly found on startup and portfolio websites. This project is built with HTML and CSS and showcases a collection of well-known media logos.
 
 [Website Link](https://ethanmrubenstein.github.io/news-logo-grid)
