@@ -16,3 +16,10 @@ A simple and clean "As Seen On" logo grid section, commonly found on startup and
 - HTML5
 - CSS3 (Flexbox)
 - Logos
+
+> [!NOTE]  
+> This project is open-source and free to use.
+
+## 🤝 Acknowledgments
+
+Most logos used are sourced from [Wikipedia](https://www.wikipedia.org) under fair use.
