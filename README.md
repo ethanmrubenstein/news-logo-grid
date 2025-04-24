@@ -1,4 +1,4 @@
-# news-logo-grid
+# News Logo Grid
 
 A simple and clean "As Seen On" logo grid section, commonly found on startup and portfolio websites. This project is built with HTML and CSS and showcases a collection of well-known media logos.
 
